@@ -11,3 +11,15 @@ public class QuizappApplication {
 	}
 
 }
+
+
+
+
+
+
+// spring.jpa.hibernate.ddl-auto=update
+// spring.datasource.url=jdbc:mysql://localhost:3306/quizApp
+// spring.datasource.username=root
+// spring.datasource.password=toor
+// spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+// spring.jpa.show-sql: true
