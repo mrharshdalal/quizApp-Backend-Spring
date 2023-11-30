@@ -18,31 +18,7 @@ Spring Quiz App is a Java-based web application built using the Spring Framework
 
 ## Project Structure
 
-spring-quiz-app/
-│
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ ├── com.example.quizapp/
-│ │ │ │ ├── controller/ # Controllers for handling HTTP requests
-│ │ │ │ ├── model/ # Entity classes representing database tables
-│ │ │ │ ├── repository/ # Spring Data JPA repositories
-│ │ │ │ ├── service/ # Business logic and services
-│ │ │ │ ├── QuizAppApplication.java # Main application class
-│ │ │ │
-│ │ │ └── resources/
-│ │ │ ├── application.properties # Database and Spring configuration
-│ │ │ └── import.sql # Initial SQL script for data seeding
-│ │ │
-│ │ └── resources/
-│ │ └── static/ # Static resources (e.g., CSS, JavaScript)
-│ │ └── templates/ # Thymeleaf templates for HTML rendering
-│ │
-│ └── test/ # Unit and integration tests
-│
-├── .gitignore # Specifies files and directories to be ignored by Git
-├── README.md # Project documentation (you are here)
-└── pom.xml # Maven project configuration
+![image](https://github.com/mrharshdalal/quizApp-Backend-Spring/assets/64740456/3fbe938b-d381-461f-8e95-3556d7c37316)
 
 
 
